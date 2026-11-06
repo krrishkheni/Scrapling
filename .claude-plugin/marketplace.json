@@ -1,0 +1,10 @@
+{
+  "name": "scrapling-marketplace",
+  "owner": "krrishkheni",
+  "plugins": [
+    {
+      "name": "scrapling",
+      "source": "./"
+    }
+  ]
+}
